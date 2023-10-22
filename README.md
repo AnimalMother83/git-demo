@@ -1,2 +1,3 @@
-# git-demo
- new project
+# Demo
+
+ Introduction to GIT and GitHub
